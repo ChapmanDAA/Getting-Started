@@ -3,7 +3,7 @@
 
 Resource for students getting started in Data Analytics/Data Science
 
-![logo](https://github.com/ChapmanDAA/Getting-Started/blob/main/Logo/Full_Logo.jpeg?raw=true))
+![logo](https://github.com/ChapmanDAA/Getting-Started/blob/main/Logo/Full_Logo.jpeg?raw=true)
 
 Welcome to the Chapman Data Analytics Association Github repository about all things Data Analytics/Data Science related. If you're asking, "I don't know anything about machine learning and it sounds cool but I don't know where to get started!", then you have come to the right place. This will act as a extensive guide to learning about the field of Data Science/Data Analytics, no matter your skill level.
 
