@@ -20,6 +20,12 @@ Welcome to the Chapman Data Analytics Association Github repository about all th
     - [R Resources](#r-resources)
 - [Topics in Machine Learning](#topics-in-machine-learning)
   - [Tools We Will Use](#tools-we-will-use)
+    - [Python](#python)
+    - [Jupyter Notebooks](#jupyter-notebooks)
+      - [What is Jupyter Notebook?](#what-is-jupyter-notebook)
+      - [Setting up Jupyter Notebook](#setting-up-jupyter-notebook)
+        - [Downloading JupyterLab](#downloading-jupyterlab)
+        - [Downloading Jupyter Notebook](#downloading-jupyter-notebook)
   - [Supervised Learning](#supervised-learning)
       - [Linear Regression](#linear-regression)
       - [Logistic Regression](#logistic-regression)
@@ -86,6 +92,45 @@ While we can't teach you how to use python, we will show you how to set up your 
 # Topics in Machine Learning
 
 ## Tools We Will Use
+
+- Python
+- Python Libraries
+  - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+  - [Numpy](https://numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+- [Jupiter Notebook](https://jupyter.org/) or [VSCode Jupiter Notebook extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) or [Google Colab](https://colab.research.google.com/)
+
+### Python
+
+There are two major versions of Python: 2 and 3. We will be using Python 3 for everything, because Python 2 is depricated. Download Python [Here](https://www.python.org/downloads/). Click the big yellow button that says "Download Python 3.10.\*". Follow the instructions to install it and click the checkmark if it asks you if you want to ADD TO PATH.
+
+### Jupyter Notebooks
+
+#### What is Jupyter Notebook?
+
+Jupyter Notebook is a web interface that you can run code, show its outputs and display plain text within a single page. Unlike regular text editors or IDEs, Jupyter Notebooks allow you to run python code by sections or lines instead of all at once making prototyping easier or displaying chunks of code more readable. Although it is a web interface, meaning it uses your web browser, it is run from your computer where you have to have Jupyter Notebook installed. 
+
+This is **NOT** true for Google Colab, which runs from the cloud and doesn't need an installation. It's recommended that you use Google Colab if you have a low spec computer or don't want to go through the installation process, but note that on faster computers Colab will be significantly slower than running Jupyter Notebook from your machine because it needs to fetch the data from Google's servers. Other than the lack of installation, the interface should be very similar to Jupyter Notebooks and the same code should be able to run on both platforms without a problem. If you are using Google Colab, skip the next section.
+
+#### Setting up Jupyter Notebook
+
+There are a couple ways to set up Jupyter Notebooks. Jupyter Notebook is a standalone program that talks to the python interpreter to run code. JupyterLab is a more extensive development environment that is similar to an IDE. It has basically the same interface to Jupyter Notebook and runs the same but with some extra capabilities, like the ability to have multiple notebooks side by side on one screen. We would recommend getting JupyterLab because the interface is the same as Jupyter notebook with the same learning curve just with some extra quality of life features. Downloading Jupyter Notebook should not change anything though.
+
+Make sure for any installation method, that you have Python3 already installed. To check type ```python3 --v``` into your terminal.
+
+##### Downloading JupyterLab
+
+1. Open up your terminal(Command Prompt/Windows Powershell)
+2. ```pip install jupyterlab```
+3. You should be able to launch JupyterLab with ```jupyter-lab```
+
+##### Downloading Jupyter Notebook
+
+1. Open up your terminal(Command Prompt/Windows Powershell)
+2. ```pip install notebook```
+3. You should be able to launch JupyterLab with ```jupyter notebook```
+
+Official Installation Guide [Here](https://jupyter.org/install)
 
 ## Supervised Learning
 
