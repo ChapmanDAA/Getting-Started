@@ -48,9 +48,9 @@ Welcome to the Chapman Data Analytics Association Github repository about all th
 
 Here in this repository we will be showing you a roadmap of how to get from knowing nothing at all to understanding how deep learning machine learning models work and the state of the art machine learning algorithms. A lot of resources will be linked throughout this guide, since we cannot possibly answer all the questions you may have (and frankly other people have done a way better job at explaining). 
 
-*As you go through this guide, we would like to encourage you to think of this guide as a journey not a destination. The goal is not to learn one particular topic like Deep Neural Networks but to have tools in your arsenal to deal with data and make sense of it.*
+*As you go through this guide, we would like to encourage you to think of this guide as a journey not a destination. The goal is not to learn one particular topic like Deep Neural Networks but to have tools in your arsenal to make sense of the data you are given.*
 
-Knowing linear regression can be more important knowing how to code a neural network from scratch in certain scenarios so I would encourage that you would keep in mind. Plus a having a fundation in simpler topics can help you get an intuition for more complex topics!
+Knowing linear regression can be more important knowing how to code a neural network from scratch in certain scenarios. Plus a having a fundation in simpler topics can help you get an intuition for more complex topics!
 
 ## What is Data Science/Data Analytics?
 
